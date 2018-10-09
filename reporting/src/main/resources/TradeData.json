@@ -1,0 +1,68 @@
+[    
+	{
+		"entity":"Etherum", 
+		"entityId": 1,
+		"byeSellFlag":"B", 
+		"agreedFx":0.50,
+		"currency":"ETH", 
+		"instructionDate": "01 Oct 2018",
+		"settlementDate": "05 Oct 2018", 
+		"units": 2, 
+		"pricePerUnit": 16850.25
+	},
+	{
+		"entity":"Ripple",
+		"entityId": 2, 
+		"byeSellFlag":"S", 
+		"agreedFx":0.22, 
+		"currency":"AED", 
+		"instructionDate": "03 Oct 2018", 
+		"settlementDate": "05 Oct 2018", 
+		"units": 750, 
+		"pricePerUnit": 43.10
+	},
+	{
+		"entity":"GOLEM", 
+		"entityId": 3,
+		"byeSellFlag":"S", 
+		"agreedFx":0.22, 
+		"currency":"SAR", 
+		"instructionDate": "03 Nov 2018", 
+		"settlementDate": "05 Nov 2018", 
+		"units": 150, 
+		"pricePerUnit": 10.90
+	},
+	{
+		"entity":"Tron", 
+		"entityId": 4,
+		"byeSellFlag":"S", 
+		"agreedFx":0.32, 
+		"currency":"AED", 
+		"instructionDate": "03 Nov 2018", 
+		"settlementDate": "05 Nov 2018", 
+		"units": 2000, 
+		"pricePerUnit": 1.90
+	},
+	{
+		"entity":"EOS",
+		"entityId": 5, 
+		"byeSellFlag":"B", 
+		"agreedFx":0.60, 
+		"currency":"AED", 
+		"instructionDate": "03 Oct 2018", 
+		"settlementDate": "17 Oct 2018", 
+		"units": 450, 
+		"pricePerUnit": 423.96
+	},
+	{
+		"entity":"BITCOIN", 
+		"entityId": 6,
+		"byeSellFlag":"B", 
+		"agreedFx":0.15, 
+		"currency":"SAR", 
+		"instructionDate": "13 Nov 2018", 
+		"settlementDate": "16 Nov 2018", 
+		"units": 3, 
+		"pricePerUnit": 499975.01
+	}
+]

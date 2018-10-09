@@ -1,0 +1,18 @@
+{
+	"05 Nov 2018":{
+		"1":{"entityName":"Etherum","entityId":1,"buyingPrice":17850.25,"sellingPrice":16650.25},
+		"2":{"entityName":"Ripple","entityId":2,"buyingPrice":44.25,"sellingPrice":42.25},
+		"3":{"entityName":"GOLEM","entityId":3,"buyingPrice":11.25,"sellingPrice":9.25},
+		"4":{"entityName":"Tron","entityId":4,"buyingPrice":1.85,"sellingPrice":1.45},
+		"5":{"entityName":"EOS","entityId":5,"buyingPrice":433.85,"sellingPrice":420.48},
+		"6":{"entityName":"BITCOIN","entityId":6,"buyingPrice":509975.01,"sellingPrice":469975.48}
+	},
+	"18 Nov 2018":{
+		"1":{"entityName":"Etherum","entityId":1,"buyingPrice":15850.25,"sellingPrice":14650.25},
+		"2":{"entityName":"Ripple","entityId":2,"buyingPrice":41.25,"sellingPrice":38.25},
+		"3":{"entityName":"GOLEM","entityId":3,"buyingPrice":10.25,"sellingPrice":9.25},
+		"4":{"entityName":"Tron","entityId":4,"buyingPrice":1.21,"sellingPrice":1.07},
+		"5":{"entityName":"EOS","entityId":5,"buyingPrice":401.75,"sellingPrice":392.28},
+		"6":{"entityName":"BITCOIN","entityId":6,"buyingPrice":489975.01,"sellingPrice":399975.48}
+	}
+}
